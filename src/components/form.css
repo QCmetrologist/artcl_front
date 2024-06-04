@@ -1,0 +1,21 @@
+.image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 30px;
+  }
+
+  @media (min-width: 768px) {
+    .d-flex-md .w-md-500 {
+      width: 500px; /* Width for medium (md) screens */
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .d-flex-lg .w-lg-500 {
+      width: 500px; /* Width for large (lg) screens */
+    }
+  }
+  
+
+  
